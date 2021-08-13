@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589344026 source:c:\users\utd\desktop\projects handsa\binary trees\binary trees\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
